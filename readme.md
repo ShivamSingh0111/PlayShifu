@@ -80,7 +80,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## 📞 Contact
 
 - Email: your.email@example.com
-- Project Link: https://github.com/yourusername/playshifu-frontend
+- Project Link:[ https://github.com/yourusername/playshifu-frontend](https://play-shifu-nout.vercel.app/)
 
 ## 🔮 Future Enhancements
 
