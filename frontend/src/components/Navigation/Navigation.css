@@ -1,0 +1,32 @@
+.nav-menu {
+    border-bottom: 1px solid #eee;
+    padding: 10px 0;
+    background-color: white;
+  }
+  
+  .nav-menu .btn {
+    color: #333;
+    font-size: 14px;
+    padding: 8px 15px;
+    border: none;
+    background: none;
+  }
+  
+  .nav-menu .btn:hover {
+    color: var(--primary-purple);
+  }
+  
+  .dropdown-menu {
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  }
+  
+  .dropdown-item {
+    padding: 8px 20px;
+    font-size: 14px;
+  }
+  
+  .dropdown-item:hover {
+    background-color: var(--primary-yellow);
+    color: #333;
+  }
