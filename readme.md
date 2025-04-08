@@ -79,7 +79,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 📞 Contact
 
-- Email: your.email@example.com
+- Email: rajputshivamsinghrkt98@gmail.com
 - Project Link:[https://play-shifu-nout.vercel.app/](https://play-shifu-nout.vercel.app/)
 
 ## 🔮 Future Enhancements
